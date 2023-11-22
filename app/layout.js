@@ -1,4 +1,3 @@
-
 import { useContext } from 'react'
 import { AuthContext} from '@/context/Autcontext'
 import { Inter } from 'next/font/google'
